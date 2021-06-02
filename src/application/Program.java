@@ -30,6 +30,7 @@ public class Program {
 				ChessPiece capturedPiece = chessMatch.performChessMove(source, target);
 			} catch (ChessException e) {
 				System.out.println(e.getMessage());
+				e.printStackTrace();
 				sc.nextLine();
 			} catch (InputMismatchException e) {
 				System.out.println(e.getMessage());
