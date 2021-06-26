@@ -1,4 +1,4 @@
-<h3 align="center">Projeto de um jogo de xadrez</h3>
+<h3 align="center">Projeto do jogo de xadrez</h3>
 
 <br />
 
