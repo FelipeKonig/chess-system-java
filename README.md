@@ -17,12 +17,26 @@
 ## :camera: <a name="Demonstracao">Demonstração</a>
 
 
-![Início de jogo](https://user-images.githubusercontent.com/49540283/123492504-0fdde600-d5f0-11eb-9eb7-5e738c5da200.png) &nbsp;
+Início de jogo
+<br />
+![Início de jogo](https://user-images.githubusercontent.com/49540283/123492504-0fdde600-d5f0-11eb-9eb7-5e738c5da200.png)
+
+<br />
+
+Movimentos possíveis da peça escolhida
+<br />
 ![Movimentos possíveis da peça escolhida](https://user-images.githubusercontent.com/49540283/123492505-0fdde600-d5f0-11eb-98fc-81b314a40f0d.png)
 
 <br />
 
+Lance de cheque
+<br />
 ![Rei em cheque](https://user-images.githubusercontent.com/49540283/123492507-0fdde600-d5f0-11eb-9bca-2559eee41806.png) &nbsp;
+
+<br />
+
+Lance de cheque-mate
+<br />
 ![Cheque mate](https://user-images.githubusercontent.com/49540283/123492503-0eacb900-d5f0-11eb-9cf7-092cebecad60.png)
 
 <br />
